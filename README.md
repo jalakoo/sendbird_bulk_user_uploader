@@ -1,4 +1,4 @@
-# Sendbird User Updater
+# Sendbird Bulk User Uploader
 Super simple python script for uploading .csv files of users to a target Sendbird application using Sendbird's [Platform API](https://docs.sendbird.com/platform)
 
 ## Requirements
