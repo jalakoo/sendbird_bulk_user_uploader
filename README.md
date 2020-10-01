@@ -9,5 +9,5 @@ Super simple python script for uploading .csv files of users to a target Sendbir
 - Saves Sendbird Application id and token to an .env file for faster re-runs
 
 ## Usage
-1. From terminal run: `python3 sendbird_users -f <csv_filepath>`
+From terminal run: `python3 sendbird_users.py -f <csv_filepath>`
 
