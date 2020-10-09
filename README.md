@@ -3,7 +3,10 @@ Super simple python script for uploading .csv files of users to a target Sendbir
 
 ## Requirements
 - A valid [Sendbird account](https://dashboard.sendbird.com/auth/signup)
-- A Sendbird application with an Application ID
+- A Sendbird application with an Application ID**
+- A Sendbird application primary or secondary token**
+
+** Both of these can be found in your Sendbird dashboard/application/Settings/General
 
 ## Features
 - Saves Sendbird Application id and token to an .env file for faster re-runs
